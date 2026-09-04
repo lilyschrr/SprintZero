@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/schee/OneDrive/Desktop/Monogame/SprintZero/SprintZero/Content/Arial.spritefont","C:/Users/schee/OneDrive/Desktop/Monogame/SprintZero/SprintZero/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21529,0.2520604
+"C:/Users/schee/OneDrive/Desktop/Monogame/SprintZero/SprintZero/Content/player-sheet.png","C:/Users/schee/OneDrive/Desktop/Monogame/SprintZero/SprintZero/Content/bin/DesktopGL/Content/player-sheet.xnb","TextureProcessor","Texture2DContent",2348,311381,0.0306164
