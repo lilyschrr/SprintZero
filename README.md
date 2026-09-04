@@ -1,0 +1,13 @@
+**3902 Sprint 0 in Monogame**
+
+Application capabilities details:
+Player movement is controlled by WASD or arrow keys.
+Clicking the screen changes the sprite and animation sequence.
+Pressing 'Q' quits the application.
+
+Credits:
+Sprites were made by me.
+AI was used to assist with debugging AnimatedSprite.cs (specifically, code pertaining to the frameThreshold variable).
+This source was referenced: http://rbwhitaker.wikidot.com/monogame-texture-atlases-1
+
+Github Link: https://github.com/lilyschrr/Sprint0
