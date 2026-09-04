@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/schee/Downloads/Sprint0/Sprint0/Content/Arial.spritefont","C:/Users/schee/Downloads/Sprint0/Sprint0/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21529,0.2898488
+"C:/Users/schee/Downloads/Sprint0/Sprint0/Content/player-sheet.png","C:/Users/schee/Downloads/Sprint0/Sprint0/Content/bin/DesktopGL/Content/player-sheet.xnb","TextureProcessor","Texture2DContent",2348,311381,0.0433871
